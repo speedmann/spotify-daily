@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 # Usage
 ## Spotify setup
-Go to [https://developer.spotify.com/] and create a new application.
+Go to https://developer.spotify.com/ and create a new application.
 Enter a valid url for the redirection.
 
 export these variables
